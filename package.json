@@ -1,0 +1,11 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe-Kan-93",
+  "license": "MIT"
+}
